@@ -19,5 +19,5 @@ Un escáner de metadatos de imágenes con una interfaz gráfica de usuario (GUI)
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/metadata-image-scanner.git
+   git clone https://github.com/devlewis0/Esc-ner-de-Metadatos-de-Im-genes.git
    cd metadata-image-scanner
